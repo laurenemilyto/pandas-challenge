@@ -1,9 +1,9 @@
-# pandas-challenge
+# standardized-test-results-analysis
 
-## About this Project
+## About This Project
 This project uses Pandas to analyze district-wide standardized test results for math and reading scores to show trends in school performance. Analysis includes a high level snapshot of the district's key metrics, school's key metrics, top performing schools, bottom performing schools, scores by grade, spending size and school type. 
 
-## Jupyter Notebook
+## Preview
 Please use this link to view the notebook: [Link](https://nbviewer.jupyter.org/github/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
 ![image](https://user-images.githubusercontent.com/75763314/132066777-1b6bd874-19db-441b-bb2b-b7a9fb3952a3.png)
 
