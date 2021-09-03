@@ -5,11 +5,10 @@ This project uses Pandas to analyze district-wide standardized test results for 
 
 ## Jupyter Notebook
 Please use this link to view the notebook: [Link](https://nbviewer.jupyter.org/github/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
-
 ![image](https://user-images.githubusercontent.com/75763314/132066777-1b6bd874-19db-441b-bb2b-b7a9fb3952a3.png)
 
 ## Data Sources
-- [schools.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv)
+- [schools.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv): 
 - [students.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete.csv)
 
 ## Insights
