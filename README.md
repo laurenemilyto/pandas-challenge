@@ -9,8 +9,8 @@ Please use this link to view the notebook: [Link](https://nbviewer.jupyter.org/g
 ![image](https://user-images.githubusercontent.com/75763314/132066777-1b6bd874-19db-441b-bb2b-b7a9fb3952a3.png)
 
 ## Data Sources
-[schools.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv)
-[students.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete.csv)
+- [schools.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv)
+- [students.csv](https://github.com/laurenemilyto/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete.csv)
 
 ## Insights
 * Across the district, students are less likely to pass math than reading. Six out of fifteen schools have passing rates of 67% or lower in math, compared to reading where passing rates are 79% and above. 
